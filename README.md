@@ -4,7 +4,8 @@ Welcome to the **NumPy Repository**! This repository contains resources, example
 
 ## Features
 - Array creation and manipulation
-- Mathematical and statistical operations
+- Mathematical operations
+- Slicing of list
 - Linear algebra functions
 - indexing
 
